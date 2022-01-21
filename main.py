@@ -1,3 +1,45 @@
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
+#This is a simple Nitro Generator. 
+#If you want to generate Nitro, you 
+#can use this script. You´ll get the 
+#codes directly into the other file.
+#If you want to try it out, just download this and open this file!
+
 import sys
 try:
     import requests
